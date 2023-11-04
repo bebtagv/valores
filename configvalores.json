@@ -1,0 +1,137 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/lunomosikvid",
+	  "email_feedback_and_report": "lynoku.square7@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "applovin_max",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#862259652072328_862259918738968",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#862259652072328_862260002072293",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#862259652072328_862260105405616",
+      "startapp_app_id": "0",
+      "unity_game_id": "180600305",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 5,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Guia Valores Esquecidos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/valores%2Fbannervalores.png?alt=media&token=1b74011b-e924-4761-be58-b66f0a45c25a&_gl=1*9gz329*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5OTA3NTcwOC40OC4xLjE2OTkwNzcwNzguNjAuMC4w"
+    }
+  ],
+  "posts": [{
+      "id": 1,
+      "category": "Guia Valores Esquecidos",
+      "title": "Valores a Receber - Saque de Dinheiro Esquecido em Bancos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/valores%2Fbannervalores.png?alt=media&token=1b74011b-e924-4761-be58-b66f0a45c25a&_gl=1*9gz329*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5OTA3NTcwOC40OC4xLjE2OTkwNzcwNzguNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/valores%2F1%20Valores%20a%20Receber%20-%20Saque%20de%20Dinheiro%20Esquecido%20em%20Bancos.html?alt=media&token=03d5e76a-53a4-4321-8759-19caf5c071e8&_gl=1*1vem05a*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5OTA3NTcwOC40OC4xLjE2OTkwNzcwOTguNDAuMC4w",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "Guia Valores Esquecidos",
+      "title": "O que é Valores a Receber do Banco Central",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/valores%2Fbannervalores.png?alt=media&token=1b74011b-e924-4761-be58-b66f0a45c25a&_gl=1*9gz329*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5OTA3NTcwOC40OC4xLjE2OTkwNzcwNzguNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/valores%2F2%20O%20que%20%C3%A9%20Valores%20a%20Receber%20do%20Banco%20Central.html?alt=media&token=0d08d8c7-09ed-41d8-9be7-30435ba0d7ce&_gl=1*185l292*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5OTA3NTcwOC40OC4xLjE2OTkwNzcxMTUuMjMuMC4w",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Guia Valores Esquecidos",
+      "title": "Recuperando Seu Dinheiro Esquecido nos Bancos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/valores%2Fbannervalores.png?alt=media&token=1b74011b-e924-4761-be58-b66f0a45c25a&_gl=1*9gz329*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5OTA3NTcwOC40OC4xLjE2OTkwNzcwNzguNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/valores%2F3%20Recuperando%20Seu%20Dinheiro%20Esquecido%20nos%20Bancos.html?alt=media&token=e031b063-ec1b-48a3-a7ce-304be537818a&_gl=1*als5md*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5OTA3NTcwOC40OC4xLjE2OTkwNzc3MDIuNTMuMC4w",
+      "video": ""
+    },{
+      "id": 4,
+      "category": "Guia Valores Esquecidos",
+      "title": "Desvendando o Sistema de Valores a Receber do Banco Central",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/valores%2Fbannervalores.png?alt=media&token=1b74011b-e924-4761-be58-b66f0a45c25a&_gl=1*9gz329*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5OTA3NTcwOC40OC4xLjE2OTkwNzcwNzguNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/valores%2F4%20Desvendando%20o%20Sistema%20de%20Valores%20a%20Receber%20do%20Banco%20Central.html?alt=media&token=7dd87169-b5e3-483f-98ed-443018db1364&_gl=1*m2sueg*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5OTA3NTcwOC40OC4xLjE2OTkwNzc3MjIuMzMuMC4w",
+      "video": ""
+    },{
+      "id": 5,
+      "category": "Guia Valores Esquecidos",
+      "title": "Dicas para Consultar e Receber Dinheiro Esquecido em Bancos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/valores%2Fbannervalores.png?alt=media&token=1b74011b-e924-4761-be58-b66f0a45c25a&_gl=1*9gz329*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5OTA3NTcwOC40OC4xLjE2OTkwNzcwNzguNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/valores%2F5%20Dicas%20para%20Consultar%20e%20Receber%20Dinheiro%20Esquecido%20em%20Bancos.html?alt=media&token=3e9dec13-21cf-4ea8-a195-37f6af8f9071&_gl=1*knw39v*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5OTA3NTcwOC40OC4xLjE2OTkwNzc3NDYuOS4wLjA.",
+      "video": ""
+    },{
+      "id": 6,
+      "category": "Guia Valores Esquecidos",
+      "title": "Consultar o CPF no Banco Central",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/valores%2Fbannervalores.png?alt=media&token=1b74011b-e924-4761-be58-b66f0a45c25a&_gl=1*9gz329*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5OTA3NTcwOC40OC4xLjE2OTkwNzcwNzguNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/valores%2F6%20Consultar%20o%20CPF%20no%20Banco%20Central.html?alt=media&token=e3e51a67-5e48-4ccf-b41e-d021d76a1d6b&_gl=1*vhmyoz*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5OTA3NTcwOC40OC4xLjE2OTkwNzc3NjcuNTMuMC4w",
+      "video": ""
+    },{
+      "id": 7,
+      "category": "Guia Valores Esquecidos",
+      "title": "O Que é Dinheiro Esquecido",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/valores%2Fbannervalores.png?alt=media&token=1b74011b-e924-4761-be58-b66f0a45c25a&_gl=1*9gz329*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5OTA3NTcwOC40OC4xLjE2OTkwNzcwNzguNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/valores%2F7%20O%20Que%20%C3%A9%20Dinheiro%20Esquecido.html?alt=media&token=4d079b63-df66-46c3-b8be-39967da5b5bb&_gl=1*1h2ibcd*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5OTA3NTcwOC40OC4xLjE2OTkwNzc3ODQuMzYuMC4w",
+      "video": ""
+    },{
+      "id": 8,
+      "category": "Guia Valores Esquecidos",
+      "title": "Como Consultar e Receber Dinheiro Esquecido em Bancos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/valores%2Fbannervalores.png?alt=media&token=1b74011b-e924-4761-be58-b66f0a45c25a&_gl=1*9gz329*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5OTA3NTcwOC40OC4xLjE2OTkwNzcwNzguNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/valores%2F8%20Como%20Consultar%20e%20Receber%20Dinheiro%20Esquecido%20em%20Bancos.html?alt=media&token=6e9e2fd1-8c65-40e9-9087-3b7d137c13e9&_gl=1*1l7dkw1*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5OTA3NTcwOC40OC4xLjE2OTkwNzc4MDMuMTcuMC4w",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    
+  ]
+}
